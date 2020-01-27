@@ -1,9 +1,9 @@
 def new_hash
-new_hash = []
+new_hash = {}
 return new_hash
 end
 
-def actor
+def actor(name)
 
 end
 
