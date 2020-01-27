@@ -3,8 +3,9 @@ new_hash = {}
 return new_hash
 end
 
-def actor(name)
 
+def actor(name, string)
+actor = {:name => string}
 end
 
 def monopoly
