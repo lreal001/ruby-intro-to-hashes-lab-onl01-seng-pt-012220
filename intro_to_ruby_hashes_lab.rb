@@ -5,7 +5,7 @@ end
 
 
 def actor(name, string)
-actor = {:name => string}
+actor = {:name => ""}
 end
 
 def monopoly
