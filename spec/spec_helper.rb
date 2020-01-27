@@ -3,8 +3,8 @@ require 'yaml'
 RSpec.configure do |config|
 
   def new_hash
-    new_array = []
-    new_array
+    Hash.new
+    hash
     # raise "replace underscore with code"
     
   end
