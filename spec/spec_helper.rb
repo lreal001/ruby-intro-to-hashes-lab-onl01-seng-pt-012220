@@ -4,8 +4,8 @@ RSpec.configure do |config|
 
   def new_hash
    
-   my_hash = Hash.new
-   my_hash
+   new_hash = Hash.new
+   new_hash
     
   end
 
